@@ -1,2 +1,1 @@
-# network_security_app
-The application was built with Python and Tkinter, integrating modules such as cryptography (Fernet encryption), JSON for data storage, urllib for URL parsing, and requests for network validation. The UI/UX was designed to be intuitive and interactive for end-users.
+APython/Tkinter “Security Toolkit” featuring a Password Manager (local JSON storage), a Firewall Rule Checker (static rule match), a URL Safety Scanner (HTTPS + SSL status check and keyword heuristics), and a Windows Wi‑Fi password retriever. 
